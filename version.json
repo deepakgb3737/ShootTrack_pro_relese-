@@ -3,5 +3,5 @@
   "versionCode": 6,
   "mandatory": false,
   "notes": "Fixed critical issues to improve app stability and reliability. Client mobile number is no longer required when creating an invoice.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/latest"
+  "downloadUrl": "sha256:86836b3f08dd3278ef6168d2d91a9a4b30580295347d302586cefef53e55c4ee"
 }
