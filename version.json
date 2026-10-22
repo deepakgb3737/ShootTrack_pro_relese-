@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "versionCode": 6,
+  "version": "1.6.0",
+  "versionCode": 8,
   "mandatory": false,
-  "notes": "Fixed critical issues to improve app stability and reliability. Invoice customer mobile number is now optional.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.5.1/ShootTrackPro-v1.5.1.apk"
+  "notes": "Production readiness update: offline Pro plan status, stronger financial validation, safer sync and backup handling, improved payment reliability, and UI refinements.",
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.0/ShootTrackPro-v1.6.0.apk"
 }
