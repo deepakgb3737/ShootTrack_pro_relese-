@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
-  "versionCode": 8,
+  "version": "1.6.1",
+  "versionCode": 9,
   "mandatory": false,
-  "notes": "Production readiness update: offline Pro plan status, stronger financial validation, safer sync and backup handling, improved payment reliability, and UI refinements.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.0/ShootTrackPro-v1.6.0.apk"
+  "notes": "Fixed invoice customer list refresh after adding or editing a customer. Fixed client event replacement saves so existing expenses are preserved without duplicate database errors.",
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.1/ShootTrackPro-v1.6.1.apk"
 }
