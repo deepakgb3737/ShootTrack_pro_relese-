@@ -1,7 +1,7 @@
 {
-  "version": "1.6.1",
-  "versionCode": 9,
+  "version": "1.6.2",
+  "versionCode": 10,
   "mandatory": false,
-  "notes": "Fixed invoice customer list refresh after adding or editing a customer. Fixed client event replacement saves so existing expenses are preserved without duplicate database errors.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.1/ShootTrackPro-v1.6.1.apk"
+  "notes": "UI polish and stability improvements across client, invoice, estimate, collection, dashboard, and Pro upgrade screens. Fixed client and event editing, duplicate handling, payment and financial consistency issues, sync and restore reliability, notification routing, account switching, startup performance, and several Android and iOS reliability issues.",
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.2/ShootTrackPro-v1.6.2.apk"
 }
