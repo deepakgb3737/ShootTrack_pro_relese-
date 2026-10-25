@@ -3,5 +3,5 @@
   "versionCode": 11,
   "mandatory": false,
   "notes": "Stability and reliability release. Fixed Collab partner duplicate handling, overnight event editing, staff payment status reporting, inactive catalog reuse, financial summaries, sync and restore safety, notification routing, account switching, invoice and payment consistency, and dashboard UI issues.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/1.6.2/ShootTrackPro-v1.6.3.apk"
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/1.6.3/ShootTrackPro-v1.6.3.apk"
 }
