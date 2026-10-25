@@ -1,7 +1,7 @@
 {
-  "version": "1.6.2",
-  "versionCode": 10,
+  "version": "1.6.3",
+  "versionCode": 11,
   "mandatory": false,
-  "notes": "UI polish and stability improvements across client, invoice, estimate, collection, dashboard, and Pro upgrade screens. Fixed client and event editing, duplicate handling, payment and financial consistency issues, sync and restore reliability, notification routing, account switching, startup performance, and several Android and iOS reliability issues.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/1.6.2/ShootTrackPro-v1.6.2.apk"
+  "notes": "Stability and reliability release. Fixed Collab partner duplicate handling, overnight event editing, staff payment status reporting, inactive catalog reuse, financial summaries, sync and restore safety, notification routing, account switching, invoice and payment consistency, and dashboard UI issues.",
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/1.6.2/ShootTrackPro-v1.6.3.apk"
 }
