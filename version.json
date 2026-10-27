@@ -2,6 +2,6 @@
   "version": "1.6.4",
   "versionCode": 12,
   "mandatory": false,
-  "notes": "Overall improvement release. Added financial-year selection in Reports and Yearly Reports, improved PDF and CSV export filtering, fixed expense chart colors and category icons, improved centralized Lucide icon usage, and fixed minor report, invoice, sync, notification, and UI issues.",
+  "notes": "Overall improvement release. Added financial-year selection in Reports and Yearly Reports, improved PDF and CSV export filtering, fixed expense chart colors and category icons, improved centralized Lucide icon usage, and fixed small report, invoice, sync, notification, and UI glitches.",
   "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/1.6.4/ShootTrackPro-v1.6.4.apk"
 }
