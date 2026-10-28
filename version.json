@@ -1,7 +1,7 @@
 {
-  "version": "1.6.4",
-  "versionCode": 12,
+  "version": "1.6.5",
+  "versionCode": 13,
   "mandatory": false,
-  "notes": "Overall improvement release. Added financial-year selection in Reports and Yearly Reports, improved PDF and CSV export filtering, fixed expense chart colors and category icons, improved centralized Lucide icon usage, and fixed small report, invoice, sync, notification, and UI glitches.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/1.6.4/ShootTrackPro-v1.6.4.apk"
+  "notes": "Stability and usability improvements. Future dates are no longer allowed for payments or expenses, Home pending cards now open the relevant filtered screens, and the Home income-versus-expense chart now handles current-month data safely without breaking on partial financial years.",
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/V1.6.5/ShootTrackPro-v1.6.5.apk"
 }
