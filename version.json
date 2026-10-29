@@ -3,5 +3,5 @@
   "versionCode": 14,
   "mandatory": false,
   "notes": "Critical bug fixes and overall improvements. Fixed sub-order saves being reported as errors after successful database commits, prevented duplicate retries, redirected users to the Events tab after saving, added pending balances for partially paid partner events, improved payment-history validation, and strengthened refresh and navigation reliability.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/V1.6.5/ShootTrackPro-v1.6.6.apk"
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.6/ShootTrackPro-v1.6.6.apk"
 }
