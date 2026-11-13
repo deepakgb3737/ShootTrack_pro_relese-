@@ -1,7 +1,7 @@
 {
-  "version": "1.6.7",
-  "versionCode": 15,
+  "version": "1.6.8",
+  "versionCode": 16,
   "mandatory": false,
-  "notes": "Bug fixes and UI improvements. Fixed invoice discount duplication during editing, improved client deletion feedback, returned to the client screen after adding payments, added professional booking details for Home and Collab calendars, added multiple-event count badges, displayed assigned staff roles as services, enabled direct client-edit step navigation, improved staff selection toggling, and strengthened local account-data deletion and sign-out.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.7/ShootTrackPro-v1.6.7.apk"
+  "notes": "Improved financial-year chart defaults, added same-date Client and Collab booking warnings, synced default invoice Terms & Conditions across devices, improved Firebase quota recovery messaging, and included stability and UI refinements.",
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.7/ShootTrackPro-v1.6.8.apk"
 }
