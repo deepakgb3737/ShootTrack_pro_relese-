@@ -1,7 +1,7 @@
 {
-  "version": "1.6.8",
-  "versionCode": 16,
+  "version": "1.6.9",
+  "versionCode": 17,
   "mandatory": false,
-  "notes": "Improved financial-year chart defaults, added same-date Client and Collab booking warnings, synced default invoice Terms & Conditions across devices, improved Firebase quota recovery messaging, and included stability and UI refinements.",
-  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.7/ShootTrackPro-v1.6.8.apk"
+  "notes": "Added Home calendar support for Client and Collab events with distinct colors, fixed payment reminders for upcoming events, fixed Firebase deliverable sync and restore, and fixed bottom navigation safe-area handling.",
+  "downloadUrl": "https://github.com/deepakgb3737/ShootTrack_pro_relese-/releases/download/v1.6.7/ShootTrackPro-v1.6.9.apk"
 }
